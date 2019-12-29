@@ -1,0 +1,44 @@
+# backend:
+#   name: git-gateway
+#   repo: aslamsk/aiqrate-pagination-netlify
+#   branch: master
+
+# publish_mode: editorial_workflow
+# media_folder: "static/images/uploads" 
+# public_folder: "/images/uploads"
+# collections:
+#   - name: "blog" 
+#     label: "Blog" 
+#     folder: "_posts/blog"
+#     create: true
+#     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+#     fields: 
+#       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+#       - {label: "Title", name: "title", widget: "string"}
+#       - {label: "Publish Date", name: "date", widget: "datetime"}
+#       - {label: "Featured Image", name: "thumbnail", widget: "image"}
+#       - {label: "Body", name: "body", widget: "markdown"}
+
+
+backend:
+  name: github
+  repo: aslamsk/aiqrate-pagination-netlify
+
+media_folder: content/blog
+public_folder: content/blog
+
+collections:
+  - name: blog
+    label: Blog
+    folder:  content/blog
+    create: true
+    fields:
+      - { name: "featuredImage", label: "Featured Image", widget: "image" }
+      # - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      # - { name: description, label: Description }
+      - { name: body, label: Body, widget: markdown }
+
+
+
