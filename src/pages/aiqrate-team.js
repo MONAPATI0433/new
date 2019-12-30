@@ -21,7 +21,7 @@
                         </div>
                         <h2 className="text-white" style={{ position: "relative", top: "-16rem", left: "75px" }}>AIQRATE Team</h2>
                         <Container>
-                            <Row>
+                            <Row style={{marginTop:"-50px"}}>
                                 <div className="block"> 
                                 <Col className="center">
                                 <img src={image4} alt="no image" style={{ height: "250px", width: "50%" }}/>

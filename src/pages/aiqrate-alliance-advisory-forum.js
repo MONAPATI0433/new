@@ -25,7 +25,7 @@ class AllianceAdvisory extends Component {
                     <h2 className="text-white" style={{ position: "relative", top: "-16rem", left: "75px" }}> AIQRATE Alliance Advisory Forum</h2>
                     <Container style={{marginTop:"-70px"}}>
                 <Row>
-                <p className="normal-para" >
+                <p className="normal-para" style={{marginTop:"-70px"}}>
                 AIQRATE establishes partnerships with<strong>leading, niche, boutique, emerging AI companies and startups from around the globe</strong> to better serve our 
                 clients’ needs. Through the Alliance Advisory Forum, AIQRATE offers advisory services on specialized<strong>AI capabilities, products, solutions</strong> that complement 
                 your expertise and fill up your strategic and technology gaps to help achieve breakthrough results.

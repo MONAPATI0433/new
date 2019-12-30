@@ -19,7 +19,7 @@ class Whyweexit extends Component {
                     </div>
                     <h2 className="text-white" style={{ position: "relative", top: "-16rem", left: "75px" }}>Why We Exist</h2>
                     <Container>
-                        <p className="normal-para" style={{ fontFamily: '"Open Sans", Sans-serif', color: '#1e252f', fontWeight: '100px', fontSize: '17px' }}>In the age of the <strong>industry 4.0</strong> revolution, AI continues to dominate the technology & business landscape.  Under the aegis of<strong>transformation, disruption</strong>
+                        <p className="normal-para" style={{ fontFamily: '"Open Sans", Sans-serif', color: '#1e252f', fontWeight: '100px', fontSize: '17px',marginTop:"-50px" }}>In the age of the <strong>industry 4.0</strong> revolution, AI continues to dominate the technology & business landscape.  Under the aegis of<strong>transformation, disruption</strong>
                             and innovation, AI has several applications and impact areas which usher a new change in how we make decisions in the enterprise and personal spheres.
                             Traditionally, human decisions are to a large extent based on intuition, gut and historical data.  In the age of AI, several of our decisions will be taken by algorithms.
                             Leveraging AI, the ability to mimic the human brain and the ensuing ability to sense, comprehend and act will significantly go up and will result in emergence of

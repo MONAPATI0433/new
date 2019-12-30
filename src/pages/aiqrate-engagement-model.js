@@ -23,7 +23,7 @@ class Aiqrtae extends Component {
                     </div>
                     <h2 className="text-white" style={{ position: "relative", top: "-16rem", left: "75px" }}>AIQRATE Engagement Model</h2>
                     <Container>
-                        <p className="mt-3 normal-para" >We have learnt that in order to provide bespoke advisory services and consulting offerings to our clients, we have to offer utmost confidentiality, uninterrupted access and approachability to our clients.  Time and confidentiality are critical for decision making and we appreciate the importance of being accessible on a swift turnaround basis to provide incisive insights and recommendations.  We offer flexible, unique, bespoke and curated advisory services and consulting offerings that are suitable for a broad range of clients. </p>
+                        <p className="normal-para" style={{marginTop:"-100px"}}>We have learnt that in order to provide bespoke advisory services and consulting offerings to our clients, we have to offer utmost confidentiality, uninterrupted access and approachability to our clients.  Time and confidentiality are critical for decision making and we appreciate the importance of being accessible on a swift turnaround basis to provide incisive insights and recommendations.  We offer flexible, unique, bespoke and curated advisory services and consulting offerings that are suitable for a broad range of clients. </p>
                         <p className="mt-3 normal-para" >AIQRATE deploys multiple and unique engagement models for providing advisory services and consulting offerings</p>
                     </Container>
                     <Container className="mt-5 text-center">

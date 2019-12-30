@@ -20,7 +20,7 @@ class BeingPositive extends Component {
                     <Container>
                         <Row>
                             <Col className="mb-5">
-                                <p className="normal-para">
+                                <p className="normal-para" style={{marginTop:"-100px"}}>
                                     Our world still faces pressing systemic challenges that affect humanity at a large scale.  From our <strong>complex and
                                 labyrinthine legal systems, traffic congestions, water scarcity, pollution and sanitation to the </strong>
                                     <strong>inefficiencies in our healthcare sector, large-scale problems still abound.</strong> The need of the hour is to better

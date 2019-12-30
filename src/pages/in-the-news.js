@@ -47,7 +47,7 @@ class Approach extends Component {
           <Container className="mb-3">
            
             <Row>
-              <CardGroup>
+              <CardGroup style={{marginTop:"-100px"}}>
                 <Card>
                   <Card.Body>
                     <Card.Title>

@@ -31,9 +31,9 @@ class Approach extends Component {
                     </div>
                     <h2 className="text-white" style={{ position: "relative", top: "-16rem", left: "75px" }}> Our Approach</h2>
                     <Container>
-                        <h5 className="mt-5 text-blue" style={{ borderLeft: '5px solid blue', color: "blue" }}>&nbsp;&nbsp;&nbsp;Enabling clients reimagine their decision making with AI strategy in a transformation, innovation and &nbsp;&nbsp;disruption driven
+                        <h5 className="text-blue" style={{ borderLeft: '5px solid blue', color: "blue",marginTop:"-100px" }}>&nbsp;&nbsp;&nbsp;Enabling clients reimagine their decision making with AI strategy in a transformation, innovation and &nbsp;&nbsp;disruption driven
                 &nbsp;world</h5>
-                        <p className="mt-5 normal-para">In today’s fast paced VUCA world, leaders face unprecedented challenges. They need to navigate through volatility while staying focused on strategy,
+                        <p className="mt-5 normal-para" >In today’s fast paced VUCA world, leaders face unprecedented challenges. They need to navigate through volatility while staying focused on strategy,
                     business performance and culture.  <strong>Artificial Intelligence</strong> is fast becoming a game changing catalyst and a strategic differentiator and almost a panacea to
                     solve large, complex and unresolved problems.  To be an <strong>AI powered organization,</strong> leaders not only need to have a broad understanding of <strong>AI strategy, </strong>
                             they need to know how and where to use it.  AIQRATE advisory services and consulting offerings are designed to enable leaders and decision makers
